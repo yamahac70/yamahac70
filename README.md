@@ -1,6 +1,6 @@
 # ¡Hola! Soy Mauro Julián Acosta 👋
 
-**Desarrollador de Software | Estudiante en UTN | Entusiasta de la Inteligencia Artificial**
+**Desarrollador de Software | Estudiante en UTN **
 
 Soy un desarrollador radicado en Tucumán, Argentina, y estudiante avanzado de la Tecnicatura en Programación en la Universidad Tecnológica Nacional (UTN). Me apasiona construir soluciones eficientes, desde el diseño de la interfaz hasta el despliegue en servidores, y tengo una fuerte capacidad para adaptar nuevas tecnologías (como herramientas de IA) a mi flujo de trabajo diario.
 
